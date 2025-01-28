@@ -1,0 +1,16 @@
+{
+  "name": "gerador-qr-codes",
+  "version": "1.0.0",
+  "description": "Repositório destinado ao projeto de um gerador de QR codes para E-commerce",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.3.0"
+  }
+}
