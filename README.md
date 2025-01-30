@@ -1,6 +1,22 @@
 # QR Code & Password Generator
 
-Um gerador de QR Code e password, feito em Node.js, que roda diretamente no terminal do VS Code.
+Um gerador de QR Code e password, feito em Node.js, que roda diretamente no terminal do seu editor de código.
+
+Recursos:
+
+- Geração de QR Codes a partir de URLs.
+
+- Geração de senhas com comprimento personalizável.
+
+- Interface de linha de comando (CLI) fácil de usar.
+
+- Leve e rápido, sem necessidade de interface gráfica.
+
+Tecnologias:
+
+- Node.js
+
+Bibliotecas: qrcode terminal, chalk, prompt
 
 ## Como usar
 
